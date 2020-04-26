@@ -15,17 +15,23 @@ The Repository is structured in the following folder:
 - doc: all the project documentation.
 - code: all the code stuff (with a dedicated README.md file for installation)
 
+## Useful Link
+Some intersting links:
+- [DevPost](https://devpost.com/software/proximity-hy28or)
+- [Prototype](https://proximeaty.web.app/)
+
 ## The Team
 ![Amazing People](https://github.com/simone-romei/ProximEATy/blob/master/media/team.jpeg)
 
-## Useful Link
-Some intersting links...
-[DevPost](https://devpost.com/software/proximity-hy28or)
-[Prototype](https://proximeaty.web.app/)
-
-
 ## The Poc
+Desktop screenshot view
 ![screenshot1](https://github.com/simone-romei/ProximEATy/blob/master/media/Slide2.jpeg)
-![screenshot1](https://github.com/simone-romei/ProximEATy/blob/master/media/Slide3.jpeg)
-![screenshot1](https://github.com/simone-romei/ProximEATy/blob/master/media/Slide4.jpeg)
-![screenshot1](https://github.com/simone-romei/ProximEATy/blob/master/media/Slide5.jpeg)
+
+Desktop screenshot view of a specific area
+![screenshot2](https://github.com/simone-romei/ProximEATy/blob/master/media/Slide3.jpeg)
+
+Desktop screenshot view of a specific food producer
+![screenshot3](https://github.com/simone-romei/ProximEATy/blob/master/media/Slide4.jpeg)
+
+Mobile screenshot of the application
+![screenshot4](https://github.com/simone-romei/ProximEATy/blob/master/media/Slide5.jpeg)
