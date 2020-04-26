@@ -24,11 +24,6 @@ Serve a local version of the project:
 ng serve
 ```
 
-Stop the local version:
-```
-./kill.sh
-```
-
 Connect to "http://localhost:4200/":
 ```
 ng serve
@@ -42,6 +37,11 @@ chunk {vendor} vendor.js, vendor.js.map (vendor) 4.19 MB [initial] [rendered]
 Date: 2020-04-26T19:00:32.845Z - Hash: 10a7dbd8a0ee674d3a9f - Time: 13245ms
 ** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
 : Compiled successfully.
+```
+
+Stop the local version:
+```
+./kill.sh
 ```
 
 ## Install Adaptive Infrastructure [DRAFT]
