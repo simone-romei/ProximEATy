@@ -1,0 +1,35 @@
+<nav class="navbar">
+  <div class="w-100 d-flex justify-content-between">
+    <a class="navbar-brand" [routerLink]="['/']">
+      <img src="assets/icon.png">
+      <!-- <i class="fas fa-map-marked-alt"></i> -->
+      <span>
+        <span class="color1">Proxim</span>
+        <span class="color2">EAT</span>
+        <span class="color1">y</span>
+      </span>
+    </a>
+    <div class="navbar-bar">
+      <div class="nav-item" *hideItBootstrap="['md','lg','xl']">
+        <a class="nav-link" [routerLink]="['post']">
+          <i class="fas fa-search"></i>
+          <span *hideItBootstrap="['xs','sm']"> Search</span>
+        </a>
+      </div>
+      <div class="nav-item" *hideItBootstrap="['md','lg','xl']">
+        <a class="nav-link" [routerLink]="['map']">
+          <i class="fas fa-map"></i>
+          <span *hideItBootstrap="['xs','sm']"> Map</span>
+        </a>
+      </div>
+      <div class="nav-item">
+        <a class="nav-link" href="#">
+          <i class="fas fa-sign-in-alt"></i>
+          <span *hideItBootstrap="['xs','sm']"> Login</span>
+        </a>
+      </div>
+    </div>
+  </div>
+
+
+</nav>

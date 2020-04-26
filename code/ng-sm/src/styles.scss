@@ -1,0 +1,48 @@
+@import "node_modules/bootstrap/scss/bootstrap";
+
+// FUNCTION
+
+@mixin img-rounded($size) {
+  @extend .d-flex, .justify-content-center, .align-items-center;
+  width: $size;
+  height: $size;
+  overflow: hidden;
+  border-radius: 100%;
+  img {
+    height: 100%;
+  }
+}
+
+// HTML
+
+html, body {
+  @extend .bg-light;
+  height: 100%;
+}
+
+// bootstrap
+
+.row {
+  @extend .p-0, .m-0;
+}
+
+.col-sm-12 {
+  @extend .p-0, .m-0;
+}
+
+// css
+
+.page-full {
+  height: 100%;
+  overflow: hidden;
+}
+
+.page-scroll {
+  @extend .page-full;
+  overflow-y: scroll;
+}
+
+.marker-icon img {
+  height: 50px;
+  width: 50px;
+}

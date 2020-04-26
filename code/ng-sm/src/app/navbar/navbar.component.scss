@@ -1,0 +1,28 @@
+@import "src/styles";
+
+.navbar-bar {
+  @extend .d-flex;
+}
+
+.navbar {
+  // background-color: #f7e4d2;
+  background-color: white;
+}
+
+.nav-link {
+  // @extend .text-light;
+  color: #f9b569;
+}
+
+
+.navbar-brand img {
+  max-height: 30px;
+}
+
+.color1 {
+  color: #84bc6f;
+}
+
+.color2 {
+  color: #f9b569;
+}

@@ -1,0 +1,16 @@
+@import "src/styles";
+
+// div {
+//   @extend .border, .border-danger;
+// }
+
+.page {
+  @extend .h-100, .d-flex, .flex-column;
+}
+
+.page-header {
+}
+
+.page-body {
+  @extend .flex-fill;
+}
