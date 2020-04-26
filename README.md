@@ -36,3 +36,5 @@ Desktop view of a specific food producer
 
 Mobile screenshot of the application
 ![screenshot4](https://github.com/simone-romei/ProximEATy/blob/master/media/Slide5.jpeg)
+
+## Thanks ;)
