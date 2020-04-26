@@ -18,3 +18,8 @@ The Repository is structured in the following folder:
 ## The Team
 ![Amazing People](https://github.com/simone-romei/ProximEATy/blob/master/media/team.jpeg)
 
+## The Poc
+![screenshot1](https://github.com/simone-romei/ProximEATy/blob/master/media/Slide2.jpeg)
+![screenshot1](https://github.com/simone-romei/ProximEATy/blob/master/media/Slide3.jpeg)
+![screenshot1](https://github.com/simone-romei/ProximEATy/blob/master/media/Slide4.jpeg)
+![screenshot1](https://github.com/simone-romei/ProximEATy/blob/master/media/Slide6.jpeg)
