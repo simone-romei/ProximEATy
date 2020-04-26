@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "proximeaty"
+  },
+  "targets": {
+    "proximeaty": {
+      "hosting": {
+        "ng-sm": [
+          "proximeaty"
+        ]
+      }
+    }
+  }
+}
