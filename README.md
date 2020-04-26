@@ -18,8 +18,14 @@ The Repository is structured in the following folder:
 ## The Team
 ![Amazing People](https://github.com/simone-romei/ProximEATy/blob/master/media/team.jpeg)
 
+## Useful Link
+Some intersting links...
+[DevPost](https://devpost.com/software/proximity-hy28or)
+[Prototype](https://proximeaty.web.app/)
+
+
 ## The Poc
 ![screenshot1](https://github.com/simone-romei/ProximEATy/blob/master/media/Slide2.jpeg)
 ![screenshot1](https://github.com/simone-romei/ProximEATy/blob/master/media/Slide3.jpeg)
 ![screenshot1](https://github.com/simone-romei/ProximEATy/blob/master/media/Slide4.jpeg)
-![screenshot1](https://github.com/simone-romei/ProximEATy/blob/master/media/Slide6.jpeg)
+![screenshot1](https://github.com/simone-romei/ProximEATy/blob/master/media/Slide5.jpeg)
