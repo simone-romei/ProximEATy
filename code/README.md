@@ -15,13 +15,19 @@ OS: linux x64
 ```
 
 Enter in the angular project folder:
-`cd ng-sm`
+```
+cd ng-sm
+```
 
 Serve a local version of the project:
-`ng serve`
+```
+ng serve
+```
 
 Stop the local version:
-`./kill.sh`
+```
+./kill.sh
+```
 
 Connect to "http://localhost:4200/":
 ```
@@ -40,12 +46,24 @@ Date: 2020-04-26T19:00:32.845Z - Hash: 10a7dbd8a0ee674d3a9f - Time: 13245ms
 
 ## Install Adaptive Infrastructure [DRAFT]
 
+Required Tools:
+```
+docker-compose -v
+docker-compose version 1.21.0, build unknown
+```
+
 Enter in the docker-compose folder:
-`cd docker-sm`
-`cd dev`
+```
+cd docker-sm
+cd dev
+```
 
 Build the docker infrastructure:
-`sudo docker-compose up`
+```
+sudo docker-compose up
+```
 
 Stop the infrastructure:
-`sudo docker-compose down`
+```
+sudo docker-compose down
+```
