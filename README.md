@@ -1,6 +1,12 @@
 # ProximEATy
 
-...
+Introducing ProximEATy. An interactive map-based solution that helps users locate and purchase food products based on availability and proximity.
+
+COVID-19 has pushed the European Food Industry to a tipping point. Farmer’s Markets across the European Union are in limbo, wholesale orders from restaurants are at a standstill, and farmer’s simply can’t keep up with the demands of digitalizing their business. So, we asked ourselves how might we mitigate the impact of COVID-19 on pan-European food security?
+
+ProximEATy was created to open a new direct sales channel connecting local producers with local consumers to shorten the food supply chain and ensure sustainable food security/support the resilience of local food economies.
+
+Our solution creates economic opportunities for local food producers and increases consumer access to local food.
 
 
 ## Repository Structure
@@ -21,7 +27,6 @@ We believe that by implementing an adaptive framework to address the asymmetry g
 
 Our solution guarantees the resilience of local food economies and their responsiveness to crises and shortages, by introducing a novel adaptive framework that ensures the well-being of individuals, sustainable flow of goods and timely access to relevant information on production.
 
-Introducing ProximEATy. An interactive map-based solution that helps users locate and purchase food products based on availability and proximity.
 
 The phase 1, our MVP, focuses on assisting the producer to ingest structured data into the system (e.g. location, Type of Produce, Image, Price, Quantity), and makes them available via an interactive map accessible by the user. Based on localization, the users can search for products in an area, by leveraging on an adaptive search, and proceed to purchase. The main advantage is that the user can visualize points that are “close to me” and/or “safe to me”, to ensure social distancing and regulation-compliance are maintained.
 
@@ -37,15 +42,13 @@ Identified personas and technologies
 Connected to mentors and validated the idea
 Built a prototype and supporting material
 4. The solution’s impact to the crisis:
-COVID-19 has pushed the European Food Industry to a tipping point. Panic is setting in as distribution channels are buckling under the pressure of the pandemic. Farmer’s Markets across the European Union are in limbo, wholesale orders from restaurants are at a standstill, and farmer’s simply can’t keep up with the demands of digitalizing their business. So, we asked ourselves how might we mitigate the impact of COVID-19 on pan-European food security?
+
 
 Here’s what we discovered:
 
 Europe’s small-to-medium size local producers have essential produce but need help connecting to distribution channels. Meanwhile consumers are struggling to access local produce due to self-isolation, social distancing and the closure of public gatherings, including farmer’s markets.
 
-ProximEATy was created to open a new direct sales channel connecting local producers with local consumers to shorten the food supply chain and ensure sustainable food security/support the resilience of local food economies.
 
-Our solution creates economic opportunities for local food producers and increases consumer access to local food.
 
 The technology is adaptive to meet the needs of the users in different scenarios based on data filters (i.e. COVID-19: direct access to local foods filtered by proximity to infected areas. Post-COVID-19: a open-source tool to support farmer’s markets and pop-up food hubs)
 
