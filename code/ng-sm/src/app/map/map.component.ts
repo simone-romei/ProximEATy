@@ -16,7 +16,10 @@ export class MapComponent implements OnInit, DoCheck {
 
   public map: Map;
   public markerEdit: LLMarkerComponent<MarkerPostComponent> = null;
-  private cluster = new MarkerClusterGroup({gridSize: 100});
+  private cluster = new MarkerClusterGroup({
+    spiderfyDistanceMultiplier: 1.5,
+    maxClusterRadius: 200
+  });
 
   private components: Array<LLComponent<any>> = new Array<LLComponent<any>>();
 
