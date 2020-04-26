@@ -8,7 +8,6 @@
 The Repository is structured in the following folder:
 - doc: all the project documentation.
 - code: all the code stuff (with a dedicated README.md file for installation)
-- ...
 
 ## Devpost
 
